@@ -1,6 +1,7 @@
-To get the project running, please follow these steps:
+To get the project running, please follow these steps: 
+[At the bottom there's a deployed version if you don't want to go through all this]
 
-1. Ensure that Node.js is installed by following the instructions in this [https://nodejs.org/en/download]
+1. Ensure that Node.js is installed by following the instructions following this link [https://nodejs.org/en/download]
 
 2. Open the terminal and navigate to the root directory of this project [in the same directory as the package.json]. Run the following command to install all the necessary dependencies:
 
@@ -28,6 +29,5 @@ http://localhost:<port_number>
 Make sure to replace <port_number> with the actual port number specified in the terminal of the project. You should now be able to see the project up and running in the browser.
 
 
-
-I also included the deployed version if you don't want to go through all these steps just follow the following link:
+I also included the deployed version follow the following link:
 https://plouuf.github.io/Adventure-of-Pingou/
