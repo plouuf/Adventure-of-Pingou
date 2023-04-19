@@ -59,6 +59,13 @@ export default class UI extends Phaser.Scene {
     const minutes = Math.floor(this.startTime / 60);
     const seconds = this.startTime % 60;
     this.timerLabel.text = `Time: ${minutes}:${seconds.toString().padStart(2, '0')}`;
+
+    if (this.starsCollected === 7) {
+      this.scene.scene.time.delayedCall(500, () => {
+        this.scene.stop('game')
+        this.scene.start('game-win');
+      });
+    }
   }
 
   
