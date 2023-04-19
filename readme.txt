@@ -14,9 +14,9 @@ Once the installation is complete, run the following command to start the projec
 > Pingou's Adventure@1.0.0 start
 > parcel src/index.html -p 8000
 
-Server running at http://localhost:63982 - configured port 8000 could not be used.
-⠋ Building...parcel-plugin-clean-easy: /Users/ploouf/Documents/code/untitled folder/Project/dist has been removed.
-✨  Built in 6.46s.
+Server running at http://localhost:64058 - configured port 8000 could not be used.
+⠋ Building...parcel-plugin-clean-easy: /Users/ploouf/Documents/code/Pingou's Adventure/dist has been removed.
+✨  Built in 7.92s.
 Watching for changes in 115 static files.
 
 something like this should be displayed in the terminal
