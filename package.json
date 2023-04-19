@@ -2,7 +2,7 @@
 	"name": "Pingou's Adventure",
 	"version": "1.0.0",
 	"description": "A pinguin platform game",
-	"homepage": "https://plouuf.github.io/Pingou-s-Adventure",
+	"homepage": "https://plouuf.github.io/Adventure-of-Pingou",
 	"scripts": {
 		"start": "parcel src/index.html -p 8000",
 		"build": "parcel build src/index.html --public-url ./ --no-source-maps",
