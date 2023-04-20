@@ -29,5 +29,5 @@ http://localhost:<port_number>
 Make sure to replace <port_number> with the actual port number specified in the terminal of the project. You should now be able to see the project up and running in the browser.
 
 
-I also included the deployed version follow the following link:
+I also included the deployed version follow the link:
 https://plouuf.github.io/Adventure-of-Pingou/
